@@ -22,7 +22,7 @@ mapping but also opens up new opportunities for more fine-
 grained verification in the future.
 ```
 
-details please refer to ![MEC](https://gitee.com/oscc-project/iMAP-FPGA.git)
+details please refer to [MEC](https://gitee.com/oscc-project/iMAP-FPGA.git)
 
 
 
